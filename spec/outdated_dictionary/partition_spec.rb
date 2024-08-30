@@ -1,4 +1,4 @@
-require_relative "../../02_dictionary/partition.rb"
+require_relative "../../outdated_dictionary/partition.rb"
 
 RSpec.describe Partition do
   describe "#replace_word" do
